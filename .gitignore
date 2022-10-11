@@ -1,1 +1,9 @@
 system.log
+*.log
+?
+#Ignoramos carpetas añadiendo /
+carpeta/
+a[bv]ogado[a-d]
+#Directorios anidados
+/a/**/z
+/a/c/z
